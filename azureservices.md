@@ -24,7 +24,7 @@ Los servicios que ofrece Azure son mútiples. Normalmente se categorizan en:
 
 - **Bases de datos:** Azure proporciona varios servicios de base de datos para almacenar una gran variedad de volúmenes y tipos de datos. Y con la conectividad global, los usuarios disponen de estos datos al instante.
 - **Web:** Azure incluye soporte técnico de primera clase para compilar y hospedar aplicaciones web y servicios web basados en HTTP. Los siguientes servicios de Azure se centran en el hospedaje web.
-- **Internet de las cosas (IoT):**Muchos servicios pueden ayudar e impulsar soluciones de un extremo a otro para IoT en Azure.
+- **Internet de las cosas (IoT):** Muchos servicios pueden ayudar e impulsar soluciones de un extremo a otro para IoT en Azure.
 - **Macrodatos:** Se han desarrollado tecnologías de clúster de código abierto para tratar con estos grandes conjuntos de datos. Azure admite una amplia gama de tecnologías y servicios para proporcionar soluciones de análisis y macrodatos.
 - **INTELIGENCIA ARTIFICIAL:** En el contexto de la informática en la nube, la inteligencia artificial se basa en una amplia gama de servicios, donde el principal es el aprendizaje automático. El aprendizaje automático es una técnica de ciencia de datos que permite a los equipos utilizar datos existentes para prever tendencias, resultados y comportamientos futuros. Mediante el aprendizaje automático, los equipos aprenden sin necesidad de programarlos explícitamente.
 

@@ -1,4 +1,4 @@
-# **¿Qué es el cómputo en la nube?**
+# **¿Qué es la informática en la nube?**
 
 ![Computo en la nube](cloud.png)
 

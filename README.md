@@ -10,6 +10,6 @@
   - [Tipos de nube](tipos.md)
 
 - **Azure**
-  - [¿Qúe es Azure?](azure.md)
-  - [¿Qúe servicios ofrece Azure?](azureservices.md)
+  - [¿Qué es Azure?](azure.md)
+  - [¿Qué servicios ofrece Azure?](azureservices.md)
 
